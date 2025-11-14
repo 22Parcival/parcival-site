@@ -6,7 +6,7 @@ html, body {
 
 body {
     background-color: 00184E;
-    background-image: url(image/wlppdegrade1.png);
+    background-image: url(wlppdegrade1.png);
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -44,4 +44,5 @@ body {
     padding: 0;
     padding-left: 0.5rem;
     margin-top: -1rem;
+
  }
